@@ -1,0 +1,30 @@
+﻿  MeshQEM.cpp
+C:\Users\86422\Documents\TextRendering\Mesh\external\eigen\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\86422\Documents\TextRendering\Mesh\external\eigen\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\86422\Documents\TextRendering\Mesh\external\eigen\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\86422\Documents\TextRendering\Mesh\MeshQEM\MeshQEM.cpp(191,37): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\86422\Documents\TextRendering\Mesh\MeshQEM\MeshQEM.cpp(192,17): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+OpenMeshCored.lib(omstream.obj) : warning LNK4099: 未找到 PDB“”(使用“OpenMeshCored.lib(omstream.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+OpenMeshCored.lib(BaseProperty.obj) : warning LNK4099: 未找到 PDB“”(使用“OpenMeshCored.lib(BaseProperty.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+OpenMeshCored.lib(ArrayKernel.obj) : warning LNK4099: 未找到 PDB“”(使用“OpenMeshCored.lib(ArrayKernel.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+OpenMeshCored.lib(PolyConnectivity.obj) : warning LNK4099: 未找到 PDB“”(使用“OpenMeshCored.lib(PolyConnectivity.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+OpenMeshCored.lib(TriConnectivity.obj) : warning LNK4099: 未找到 PDB“”(使用“OpenMeshCored.lib(TriConnectivity.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+OpenMeshCored.lib(IOManager.obj) : warning LNK4099: 未找到 PDB“”(使用“OpenMeshCored.lib(IOManager.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+OpenMeshCored.lib(OBJReader.obj) : warning LNK4099: 未找到 PDB“”(使用“OpenMeshCored.lib(OBJReader.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+OpenMeshCored.lib(OFFReader.obj) : warning LNK4099: 未找到 PDB“”(使用“OpenMeshCored.lib(OFFReader.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+OpenMeshCored.lib(PLYReader.obj) : warning LNK4099: 未找到 PDB“”(使用“OpenMeshCored.lib(PLYReader.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+OpenMeshCored.lib(STLReader.obj) : warning LNK4099: 未找到 PDB“”(使用“OpenMeshCored.lib(STLReader.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+OpenMeshCored.lib(OMReader.obj) : warning LNK4099: 未找到 PDB“”(使用“OpenMeshCored.lib(OMReader.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+OpenMeshCored.lib(OBJWriter.obj) : warning LNK4099: 未找到 PDB“”(使用“OpenMeshCored.lib(OBJWriter.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+OpenMeshCored.lib(OFFWriter.obj) : warning LNK4099: 未找到 PDB“”(使用“OpenMeshCored.lib(OFFWriter.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+OpenMeshCored.lib(STLWriter.obj) : warning LNK4099: 未找到 PDB“”(使用“OpenMeshCored.lib(STLWriter.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+OpenMeshCored.lib(OMWriter.obj) : warning LNK4099: 未找到 PDB“”(使用“OpenMeshCored.lib(OMWriter.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+OpenMeshCored.lib(PLYWriter.obj) : warning LNK4099: 未找到 PDB“”(使用“OpenMeshCored.lib(PLYWriter.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+OpenMeshCored.lib(VTKWriter.obj) : warning LNK4099: 未找到 PDB“”(使用“OpenMeshCored.lib(VTKWriter.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+OpenMeshCored.lib(BaseReader.obj) : warning LNK4099: 未找到 PDB“”(使用“OpenMeshCored.lib(BaseReader.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+OpenMeshCored.lib(BaseWriter.obj) : warning LNK4099: 未找到 PDB“”(使用“OpenMeshCored.lib(BaseWriter.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+OpenMeshCored.lib(BinaryHelper.obj) : warning LNK4099: 未找到 PDB“”(使用“OpenMeshCored.lib(BinaryHelper.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+OpenMeshCored.lib(OMFormat.obj) : warning LNK4099: 未找到 PDB“”(使用“OpenMeshCored.lib(OMFormat.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+OpenMeshCored.lib(PropertyCreator.obj) : warning LNK4099: 未找到 PDB“”(使用“OpenMeshCored.lib(PropertyCreator.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+OpenMeshCored.lib(Endian.obj) : warning LNK4099: 未找到 PDB“”(使用“OpenMeshCored.lib(Endian.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+  MeshQEM.vcxproj -> C:\Users\86422\Documents\TextRendering\Mesh\x64\Debug\MeshQEM.exe
